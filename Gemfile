@@ -4,3 +4,5 @@ gem 'jekyll-archives'
 gem 'jekyll-sitemap'
 gem 'jekyll-paginate-v2'
 gem "kramdown-parser-gfm"
+gem 'wdm', '~> 0.1.0'
+gem "listen", "~> 3.2.1"

@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: 느릿한 개발자
+title: 개발자 이야기
 subtitle: "A blog about anything, but usually about coding"
 email: dleognsdl94@gmail.com
 name: Daehoon Lee
