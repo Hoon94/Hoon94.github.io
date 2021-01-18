@@ -9,18 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: 개발일기
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+title: 느릿한 개발자
+subtitle: "A blog about anything, but usually about coding"
 email: dleognsdl94@gmail.com
 name: Daehoon Lee
-description: >
-  개발자.
+description: I'm Daehoon Lee, studing AI from
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://hoon94.github.io/" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/light_header_image.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
@@ -78,29 +77,29 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: ""
+    url: ""
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: ""
     url: ""
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: Daehoon Lee
+    url: https://github.com/Hoon94
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: ""
+    url: ""
     desc: Connect with me on LinkedIn
     share: true
 
